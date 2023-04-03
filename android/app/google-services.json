@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "583751175329",
+    "project_id": "natureldisaster-7eb58",
+    "storage_bucket": "natureldisaster-7eb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583751175329:android:8fd1d418ca8e4d1b55b4e0",
+        "android_client_info": {
+          "package_name": "com.mycompany.natureldisaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583751175329-8b2fad96otjdaisisvmu0alo63ua1bm3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.natureldisaster",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "583751175329-3omv2ml7gr3gadt91ol9824bd05ss3pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBESRLxpB8ABkSazWflzR6QIvO7wSJpWf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583751175329-3omv2ml7gr3gadt91ol9824bd05ss3pn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "583751175329-uflrgcdf545u3noot59j75jftlh4mh3f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.natureldisaster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
